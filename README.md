@@ -48,15 +48,22 @@ The Menu :
 Please choose a number :)
 ------------------------------------------------------------------------------------------
 Add Employee---1
+
 Update Employee---2
+
 Delete Employee---3
+
 Search Employee---4
+
 List All Employees---5
+
 Exit---6
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------Attatched---------------------------------------------------
+
+
 1.The ipynnb file contain the code
 2.CSV file with some data I tried upon working on the project
 ------------------------------------------------------------------------------------------
