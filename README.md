@@ -58,6 +58,7 @@ Search Employee---4
 List All Employees---5
 
 Exit---6
+
 ------------------------------------------------------------------------------------------
 
 
@@ -65,5 +66,6 @@ Exit---6
 
 
 1.The ipynnb file contain the code
+
 2.CSV file with some data I tried upon working on the project
 ------------------------------------------------------------------------------------------
