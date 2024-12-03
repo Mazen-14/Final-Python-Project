@@ -1,6 +1,10 @@
 # Final-Python-Project
+
+
 Employee Management System
+
 This project is a Employee Management System implemented in Python under supervision of Eng Baraa Abu Sallout. 
+
 It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on employee data stored in a CSV file. 
 
 
