@@ -14,32 +14,56 @@ It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on
 
 
 --------------------------Structure---------------------------------------
-1. Employee Class
-Represents an employee with :
-id (string)
-name (string)
-position (string)
-salary (float)
-email (string)
-Also :
-update_field(): Update a specific field (ID, name, position, salary, email).
-display(): Display specific employee details.
-2. EmployeeManager Class
-Manages the employee records stored in a CSV file.
--It provides ways for:
-Read employee data from a CSV file.
-Write employee data to a CSV file and save it.
--CRUD Operations:
-add_employee()
-update_employee()
-delete_employee()
-search()
-list()
-Lastly it make sure the salary is a number and is positive.
-3. Command-Line Interface (CLI):
-A simple menu-driven interface allowing users to interact with the system.
-The Menu :
 
+1. Employee Class
+
+Represents an employee with :
+
+id (string)
+
+name (string)
+
+position (string)
+
+salary (float)
+
+email (string)
+
+Also :
+
+update_field(): Update a specific field (ID, name, position, salary, email).
+
+display(): Display specific employee details.
+
+2. EmployeeManager Class
+
+Manages the employee records stored in a CSV file.
+
+-It provides ways for:
+
+Read employee data from a CSV file.
+
+Write employee data to a CSV file and save it.
+
+-CRUD Operations:
+
+add_employee()
+
+update_employee()
+
+delete_employee()
+
+search()
+
+list()
+
+Lastly it make sure the salary is a number and is positive.
+
+3. Command-Line Interface (CLI):
+
+A simple menu-driven interface allowing users to interact with the system.
+
+The Menu :
 
 ------------------------------------------------------------------------------------------
 -----------------------------Welcome to Mazen Project-------------------------------------
@@ -68,4 +92,5 @@ Exit---6
 1.The ipynnb file contain the code
 
 2.CSV file with some data I tried upon working on the project
+
 ------------------------------------------------------------------------------------------
